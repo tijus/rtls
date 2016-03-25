@@ -1,3 +1,6 @@
+#This python interface is a socket programmed interface to connect rfid tag reader with the local server via tcp connection and send the live reading to database
+#This interface is make for tracking row boats in the coastal regions of india to track their behaviour and prevent unauthorized intrusion
+
 import socket
 import time
 import MySQLdb
